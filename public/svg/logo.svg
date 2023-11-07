@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" fill="none" viewBox="0 0 61 61">
+  <path fill="url(#a)" d="M.695 0h60v60h-60z" transform="rotate(.663 .695 0)"/>
+  <defs>
+    <pattern id="a" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <use href="#b" transform="scale(.02)"/>
+    </pattern>
+    <image id="b" width="50" height="50" data-name="icons8-Ð¼Ð¾Ð»Ð¾ÐºÐ¾-50.png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4klEQVR4nO3TsQ3CQBBE0Q0ogRKQ6IiAgN6cUgYyTeAGTA0gDcmdtDLBgm68NmheSID1d2wzkXUCcEW7fg0hFEt3GCdDITILADsAx6UevgVwb/gsngD25b86AAOAzRIh58bvu3NrPMpvp+yIQ2PEdI1qSFulvFLjDGtUuaswTNaobvZryiv2xpIe3iz6L1PIF7SIEx3FMoBAIUxaxImOYhlAoBAmLeJER7EMIFAIkxZxoqNYBhAohEmLONFRLAMIFMKkRZzoKJYBBAph0iJOdBTLAAKFMP3TIv3MIZeUEBH7yAvXOCA3g45qjQAAAABJRU5ErkJggg=="/>
+  </defs>
+</svg>
